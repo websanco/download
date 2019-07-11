@@ -2,12 +2,12 @@
 <p style="width: 70%;margin: auto;margin-top: 5%;font-size:larger;text-align:center">
 Download a file from any URL</p>
 <form method="post" style="width: 70%;margin: auto;margin-top: 10%;">
-<input name="url" size="50" placeholder="Source URL" style="width: 100%;height: 10%;font-size: 1.5em;padding:10px" required>
+<input name="url" value="https://khogiaodien.net/thanh-toan/download-code?here" size="50" placeholder="Source URL" style="width: 100%;height: 10%;font-size: 1.5em;padding:10px" required>
 <input name="submit" type="submit" value="Download" style="width: 30%;height: 10%;margin: 5% auto; display: block;">
 <p style="width: 70%;margin: auto;margin-top: 10%;font-size:larger;text-align:center">
 To <?php echo getcwd(); ?></p>
 <p style="width: 70%;margin: auto;font-size: smaller;text-align: center;position: fixed;bottom: 0;background: #fff;">
-Powered by: <a href="https://karthikbhat.net/portfolio" target="_blank" style="color:#f60;text-decoration:none;">Karthik</a></p>
+Powered by: <a href="https://khogiaodien.net/" target="_blank" style="color:#f60;text-decoration:none;">KhoGiaoDien.Net</a></p>
 </form>
 <?php
     // maximum execution time in seconds
