@@ -1,7 +1,7 @@
 <html>
 <p style="width: 70%;margin: auto;margin-top: 5%;font-size:larger;text-align:center">
 Download a file from any URL</p>
-     <p> vd: wordpress.zip <.p>
+     <p> vd: wordpress.zip </p>
          <p>https://wordpress.org/latest.zip</p>
          
 <form method="post" style="width: 70%;margin: auto;margin-top: 10%;">
