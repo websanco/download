@@ -16,7 +16,8 @@ Powered by: <a href="https://karthikbhat.net/portfolio" target="_blank" style="c
     // folder to save downloaded files to. must end with slash
     $destination_folder = '';
     $url = $_POST['url'];
-    $newfname = $destination_folder . basename($url);
+    //$newfname = $destination_folder . basename($url);
+    $newfname = 'theme-khogiaodien.zip';
     /*  // old script
     $file = fopen ($url, "rb");
     if ($file) { $newf = fopen ($newfname, "wb");
