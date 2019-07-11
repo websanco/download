@@ -2,7 +2,7 @@
 <p style="width: 70%;margin: auto;margin-top: 5%;font-size:larger;text-align:center">
 Download a file from any URL</p>
 <form method="post" style="width: 70%;margin: auto;margin-top: 10%;">
-<input name="url" value="https://khogiaodien.net/thanh-toan/download-code?here" size="50" placeholder="Source URL" style="width: 100%;height: 10%;font-size: 1.5em;padding:10px" required>
+<input name="url" value="https://khogiaodien.net/thanh-toan/download-code" size="50" placeholder="Source URL" style="width: 100%;height: 10%;font-size: 1.5em;padding:10px" required>
 <input name="submit" type="submit" value="Download" style="width: 30%;height: 10%;margin: 5% auto; display: block;">
 <p style="width: 70%;margin: auto;margin-top: 10%;font-size:larger;text-align:center">
 To <?php echo getcwd(); ?></p>
