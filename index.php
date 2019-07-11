@@ -21,8 +21,8 @@ Powered by: <a href="https://khogiaodien.net/" target="_blank" style="color:#f60
     if (!isset($_POST['submit'])) die();
     // folder to save downloaded files to. must end with slash
     $destination_folder = '';
-    $url = $_POST['tenfile'];
-    $newfname = $_POST['url'];
+    $url = $_POST['url'];
+    $newfname = $_POST['tenfile'];
     //$newfname = $destination_folder . basename($url);
     //$newfname = 'theme-khogiaodien.zip';
     /*  // old script
