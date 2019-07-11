@@ -5,7 +5,7 @@ Download a file from any URL</p>
          <p>https://wordpress.org/latest.zip</p>
          
 <form method="post" style="width: 70%;margin: auto;margin-top: 10%;">
-<input name="tenfile" value="wordpress.zip" size="50" placeholder="Tên File" style="width: 100%;height: 10%;font-size: 1.5em;padding:10px" required>
+<input name="tenfile" value="wordpress.zip" size="50" placeholder="filename.zip" style="width: 100%;height: 10%;font-size: 1.5em;padding:10px" required>
 <input name="url" value="https://wordpress.org/latest.zip" size="50" placeholder="Source URL" style="width: 100%;height: 10%;font-size: 1.5em;padding:10px" required>
 <input name="submit" type="submit" value="Download" style="width: 30%;height: 10%;margin: 5% auto; display: block;">
 <p style="width: 70%;margin: auto;margin-top: 10%;font-size:larger;text-align:center">
