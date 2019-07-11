@@ -6,6 +6,7 @@ Download a file from any URL</p>
 <input name="submit" type="submit" value="Download" style="width: 30%;height: 10%;margin: 5% auto; display: block;">
 <p style="width: 70%;margin: auto;margin-top: 10%;font-size:larger;text-align:center">
 To <?php echo getcwd(); ?></p>
+    <p>https://wordpress.org/latest.zip</p>
 <p style="width: 70%;margin: auto;font-size: smaller;text-align: center;position: fixed;bottom: 0;background: #fff;">
 Powered by: <a href="https://khogiaodien.net/" target="_blank" style="color:#f60;text-decoration:none;">KhoGiaoDien.Net</a></p>
 </form>
